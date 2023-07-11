@@ -8,5 +8,7 @@ public class Main {
         System.out.println("second");
         //third
         System.out.println("third");
+        //forth
+        System.out.println("forth");
     }
 }
