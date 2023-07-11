@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //first
         System.out.println("hello world first version");
-
-        
+        //second
+        System.out.println("second");
     }
 }
