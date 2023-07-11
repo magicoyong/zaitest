@@ -6,5 +6,7 @@ public class Main {
         System.out.println("hello world first version");
         //second
         System.out.println("second");
+        //third
+        System.out.println("third");
     }
 }
